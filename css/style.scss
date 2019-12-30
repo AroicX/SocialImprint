@@ -108,7 +108,7 @@ nav {
     }
 }
 .section3 {
-    height: 100vh;
+    height: auto;
     @include flex(row);
     justify-content: center;
     align-items: center;
