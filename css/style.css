@@ -90,8 +90,8 @@ body {
 }
 
 .cause-mis {
-  height: 100vh;
-  padding: 80px 20px;
+  height: 20vh;
+  padding: 10px 20px;
 }
 
 .cause-mis h3 {
@@ -101,7 +101,9 @@ body {
 .story-sec {
   height: 80vh;
   width: 100%;
-  background: #C4C4C4;
+  background-image: url('../img/stories.png');
+  background-repeat: no-repeat;
+  background-size: cover;
   margin: 20px 0;
   position: relative;
   margin-bottom: 190px;
